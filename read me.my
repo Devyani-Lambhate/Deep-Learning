@@ -1,4 +1,4 @@
 to run the code please use
-python main.py test_input.txt
+python main.py test_input
 This will generate two files Software1 and Software 2
 Software 1 is the normal code wheras Software 2 is the neural network code
