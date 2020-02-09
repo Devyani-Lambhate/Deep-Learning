@@ -26,7 +26,7 @@ def change_to_binaryarray(binary_string):
 
 model = load_model('fizzbuzzmodel.h5')
 
-input1 = sys.argv[1]
+input1 = sys.argv[1]+'.txt'
 print(input1)
 # summarize model.
 #model.summary()
